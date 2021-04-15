@@ -4,7 +4,7 @@ This project is a practice version of the algorithms that i will come across on 
 
 -------- Beginning --------
 
-1. ###Sorting
+1. ### Sorting
 
 
 
